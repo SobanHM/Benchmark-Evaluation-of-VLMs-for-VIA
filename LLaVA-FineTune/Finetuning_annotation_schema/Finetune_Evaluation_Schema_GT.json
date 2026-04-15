@@ -1,0 +1,842 @@
+[
+    {
+        "id": 13,
+        "image": "sm_13.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. Please, describe the scene both completely and correctly as well as provide navigational guidance if necessary?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are inside a shopping mall area with open space and tiled flooring. Directly ahead, there is a vertical promotional stand with a large printed image and text reading “Joban,” including contact details near the bottom. Clothing is displayed on racks behind the stand. Several people are nearby and moving slowly. The stand is a solid obstacle in your path. Stop briefly, then move around it by keeping slightly to the left, and proceed with caution due to foot traffic."
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "sm_14.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. Please, describe the scene both completely and correctly as well as provide navigational guidance if necessary?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are in an open mall area with temporary stalls placed on the floor. Tables covered with items are positioned ahead and to both sides, narrowing the walking space. An escalator is located ahead and to the left, moving upward. People, including children, are standing and walking nearby, creating unpredictable movement. The floor is flat but busy. Stop and orient yourself. If you move forward, keep your cane low, walk slowly, and be prepared to pause for moving people or the escalator entrance."
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "sm_15.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. Please, describe the scene both completely and correctly as well as provide navigational guidance if necessary?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are inside a bright store area facing a central display table with handbags arranged at waist height. In front-right of you, several rolling suitcases are lined up on the floor, which can block forward movement. Along the back wall, many shoes are displayed neatly on shelves from knee to head height. The floor is smooth. If you move forward, keep slightly left to avoid the suitcases and keep your cane moving to find luggage wheels in your way."
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "sm_33.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. Please, describe the scene both completely and correctly as well as provide navigational guidance if necessary?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are standing at a bakery counter inside a store. Directly ahead, a male staff member in an orange shirt is standing behind a counter with a computer system. On both your left and right, glass display cabinets contain cakes and pastries arranged on multiple shelves, with cabinet edges at knee to waist height. Shelves behind the counter hold boxed bakery items and stacked paper cups. The floor is smooth and clear, but the display cabinet corners are close. Move forward slowly toward the counter, keep your cane low to detect the glass cabinet edges, and stop about one arm’s length before the counter to interact with the staff member safely."
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "sm_34.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. Please, describe the scene both completely and correctly as well as provide navigational guidance if necessary?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are inside a large store, standing in an open central area. Directly ahead is a wide staircase going up, with metal steps and railings on both sides. Beneath the stairs, bottled items are stored on low shelves. To your right, there is a pharmacy counter marked “Pharmacy” and “Counter-4,” with a staff member standing behind the counter. Several shopping carts are parked in rows near the pharmacy, partially narrowing the walking space. The floor changes from smooth tile to a wooden-textured surface, with tactile foot symbols on the ground. Move forward carefully, keep your cane low to detect the stair base and cart wheels, and stay slightly left if you want to pass safely without entering the pharmacy queue."
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "sm_35.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. Please, describe the scene both completely and correctly as well as provide navigational guidance if necessary?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are in a narrow supermarket aisle. Directly ahead, a young girl is pushing a small yellow shopping cart filled with groceries, partially blocking the path. On your left, there are open vegetable racks holding items like cauliflower, cabbage, and other greens, with metal basket edges at knee height. On your right, tall shelves display packaged food items such as biscuits and snacks. Further ahead, an adult man is standing near the produce section. The floor is smooth and clear but space is limited. Slow down, keep your cane low to detect the cart wheels and shelf edges, and wait or gently move slightly to one side before proceeding forward."
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "image": "sm_58.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. Please, describe the scene both completely and correctly as well as provide navigational guidance if necessary?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are standing in front of the health and organic food shelves. White resealable pouches containing organic seeds, capsules, and powders are arranged symmetrically on wooden shelves fixed to a wall panel. Product labels emphasize organic and natural ingredients. On the left, bottled syrups and food items such as sauces or rice products are visible, while the right side shows additional wellness-related packaging. The spacing between products gives the section a calm, premium feel, suggesting specialty or health-focused merchandise."
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "image": "sm_59.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. Please, describe the scene both completely and correctly as well as provide navigational guidance if necessary?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "In front of you, there is a store shelf filled with a variety of snacks. The shelf is divided into sections, each containing different types of snacks. The snacks are arranged in an organized manner, making it easy for customers to find and select their desired items. The shelf is stocked with a wide assortment of snacks, including chips, crackers, and other snack foods. The store offers a diverse selection of snacks to cater to different tastes and preferences."
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "image": "sm_60.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. Please, describe the scene both completely and correctly as well as provide navigational guidance if necessary?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are inside a superstore and in front of a shelf. This scene shows a grocery shelf stocked with large bags of basmati rice and a full row of bottled syrups and sauces beneath. At the top, branded rice bags such as Falak Select are neatly arranged, emphasizing premium basmati varieties. The middle shelves display cooking mixes and smaller rice packets, while the lower shelf is lined with tall, identical bottles containing dark-colored sauces Jameshirin and orange squash, arranged uniformly for easy selection. In the foreground, large rice sacks are placed on a wooden platform, indicating bulk purchase options. Don’t move forward. The setup reflects a well-organized staples section focused on rice and traditional condiments."
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "image": "sm_91.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. Please, describe the scene both completely and correctly as well as provide navigational guidance if necessary?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are standing beside a laundry detergent shelf in a supermarket aisle. On your left, several rows of Bonus Active detergent packs are neatly stacked; the packets feel soft and bulky, mostly red and yellow, and are arranged from waist height up to chest height. On your right, another shelf holds Ariel detergent packs, which are white and green, placed in rows with some empty or partially filled spaces on the lower shelves. The floor is smooth and tiled, with clear walking space in front of the shelves, and the aisle continues forward without obstacles."
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "image": "sm_92.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. Please, describe the scene both completely and correctly as well as provide navigational guidance if necessary?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are standing in a grocery aisle facing a shelf of boxed food mixes. Directly in front of you, the shelves hold National brand recipe mixes in rectangular boxes, arranged neatly in rows from waist height to above shoulder level. The boxes are indicating items like haleem, masala, lentils, and curry mixes. A person wearing a maroon shirt is standing very close in front of you, partially blocking the complete view of the middle shelves. Please turn 2 steps right. At floor level, just below the lowest shelf, there are blue and red salt packets laid flat. The aisle is narrow but walkable, with smooth tiled flooring and no immediate obstacles underfoot."
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "image": "sm_93.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. Please, describe the scene both completely and correctly as well as provide navigational guidance if necessary?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "In front of you is a glass door opening to the street. Outside, it is nighttime and you can sense moving traffic cars and motorcycles passing by with streetlights shining. Approximately, 3 steps away to your left, two men are standing near a counter. Directly ahead near the doorway is an air cooler, placed on the floor. The floor is smooth and tiled, clear to walk on. To your right, close to you, there is an empty metal shopping basket on the floor near the wall."
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "image": "sm_117.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. Please, describe the scene both completely and correctly as well as provide navigational guidance if necessary?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are facing a multi-tiered shelving unit stocked with household and personal care items. The top shelf is lined with various air freshener spray cans, including 'Franscent' and 'Panda' brands in assorted floral and ocean scents. The second shelf down contains rows of 'Perfect' brand body sprays or air fresheners in metallic blue, green, and black cans. The third shelf holds health and beauty essentials, including stacks of 'Fay' brand cotton swabs (Q-tips) in clear plastic containers and yellow boxes of 'Chic de Mirror' tissues. The bottom shelf features smaller travel-sized tissue packs and 'Cool & Cool' brand wipes. Below the shelves, there is a storage area containing cleaning supplies and items wrapped in plastic. The display is directly in front of you. To navigate, you can move left or right along the aisle to browse. The floor area appears clear, but be mindful of the shelf edges when reaching for items."
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "image": "sm_118.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. Please, describe the scene both completely and correctly as well as provide navigational guidance if necessary?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are facing a four-tier shelving unit in the personal care section, stocked with a variety of face washes and liquid hand soaps. The top three shelves feature numerous tubes of face wash from brands like VLCC, Vince, Cool & Cool, and Herbion, offering various treatments like Green Tea, Neem, and Hyaluronic Acid. The bottom shelf is lined with several rows of liquid hand soap and mouthwash in clear pump bottles, showing a range of colors including red, blue, purple, and green. The display is directly in front of you. You can move safely to the left or right to browse the different products, as the floor area in front of the shelves is clear. Be mindful of the shelf height when reaching for items on the upper levels."
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "image": "sm_119.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. Please, describe the scene both completely and correctly as well as provide navigational guidance if necessary?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are standing in front of a wooden-rimmed shelving unit in a snack and beverage aisle. The top shelf contains small purple and green sachets of 'Tang' powdered drink mix in Mango and Lemon flavors. The middle and lower shelves are stocked with yellow bags of 'Dashi' brand crackers and papads in various shapes, labeled as 'Crispy & Crunchy.' To your immediate left is the metal framework of an empty shelf, and just beyond that, you can see a row of red-handled metal shopping carts lined up. To navigate, stay centered in the aisle to avoid the shelf edges. If you need a cart, they are located just a few steps to your left. The floor area directly in front of you is clear and safe for movement."
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "image": "ph_13.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. Please, describe the scene both completely and correctly as well as provide navigational guidance if necessary?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are in a rectangular living area with a smooth, open floor. A low table is directly ahead at arm reach, so step around it first. Soft seating is behind the table, and the center path forward is mostly clear. On the right, dining chairs create knee-height obstacles, and on the left, low cabinets run along the wall. Move slightly left of center, go around the table, and continue forward slowly toward the open doorways ahead."
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "image": "ph_14.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. Please, describe the scene both completely and correctly as well as provide navigational guidance if necessary?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are standing in a covered outdoor balcony or terrace with a flat, open floor. A solid wall runs along your left side and can be used as a guide by lightly trailing your hand. A vertical column stands a few steps ahead near the center, so turn slightly left or right to avoid it. Beyond the column, a waist-high railing marks the edge of the balcony and should not be crossed. Overhead lines hang near the railing at upper-body height, so be cautious when approaching the edge. Low objects near the right wall create tripping hazards, making the clear center path the safest route forward."
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "image": "ph_15.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. Please, describe the scene both completely and correctly as well as provide navigational guidance if necessary?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are in a small, enclosed kitchen with a narrow open space in the center. Move forward only one or two steps before reaching a counter directly ahead. Counters run along both the left and right walls, forming U-shape. You can safely use the left counter edge as a guide while standing. Keep your steps short, stay centered, and be cautious of low obstacles near the floor on the right."
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "image": "ph_33.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. Please, describe the scene both completely and correctly as well as provide navigational guidance if necessary?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This image shows the inside of a refrigerator with the door open, revealing several shelves and storage compartments. The interior is well lit, making it easy to identify items placed at different heights. On the top and middle wire shelves, there are plastic bags and containers holding fruits and vegetables, arranged loosely rather than stacked. The lower section contains a larger drawer with leafy vegetables stored inside, which sits closer to knee level when standing. On the refrigerator door, narrow shelves hold small bottles, packets, and a few fruits, creating vertical storage along the right side. Overall, the layout is compact and organized by shelf level, but care is needed to avoid knocking items over when reaching inside."
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "image": "ph_34.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. Please, describe the scene both completely and correctly as well as provide navigational guidance if necessary?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are standing in a kitchen with a clear, rectangular layout and a flat, firm floor that is easy to walk on. The main walking space runs through the center, with counters and cabinets forming solid boundaries along the left, back, and right sides. Directly ahead, a counter stretches across the back wall, so stop before reaching it to avoid contact at waist height. On the right side, a tall refrigerator stands near the counter, creating a vertical obstacle you can use as a reference point. A small central island or counter extension projects slightly into the room, so slow down and keep slightly to one side when moving forward. For safe movement, walk along the open center path, use the edges of counters as guides, and avoid sharp turns in the tighter areas."
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "image": "ph_35.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. Please, describe the scene both completely and correctly as well as provide navigational guidance if necessary?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are in a kitchen with a flat, smooth floor and a mostly open center for walking. A low island with a water dispenser stands ahead in the middle, so walk around it carefully. Tall cabinets and a refrigerator line the sides, forming clear boundaries but creating hard edges to avoid. The back wall contains counters and a sink, which block further forward movement. For safe navigation, move slowly through the center, curve around the island, and stop near the counters."
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "image": "ph_58.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "As I am visually impaired, I cannot see this scene. Could you describe the environment in front of me in detail and tell me how I might move safely in this environment?"
+            },
+            {
+                "from": "gpt",
+                "value": "This is a long, narrow hallway with a smooth tiled floor and plain walls. The path ahead is mostly clear, making it easy to walk straight forward. Doorways are visible at the far end, serving as clear landmarks. There are minimal obstacles along the sides, but staying centered is safest. Lighting appears dimmer toward the end, so slow down near doors. Use the wall lightly as a guide if needed."
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "image": "ph_59.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "As I am visually impaired, I cannot see this scene. Could you describe the environment in front of me in detail and tell me how I might move safely in this environment?"
+            },
+            {
+                "from": "gpt",
+                "value": "This image shows a simple bedroom viewed from the doorway. A wooden double bed with a patterned bedspread is placed near the center of the room. Pillows and folded clothes are arranged on the bed. The walls are plain light-colored, giving the room a minimal look. A wooden door is visible on the left side. The tiled floor is clean and uncluttered, allowing easy movement."
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "image": "ph_60.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "As I am visually impaired, I cannot see this scene. Could you describe the environment in front of me in detail and tell me how I might move safely in this environment?"
+            },
+            {
+                "from": "gpt",
+                "value": "This room appears spacious with a tiled floor in a dark green marble pattern. The walls are partially tiled with a decorative pink and white design. A low storage unit or bed platform is placed against the far wall. A ceiling fan is mounted at the center of the ceiling. An open door leads to another room or corridor. The room feels open with minimal furniture."
+            }
+        ]
+    },
+    {
+        "id": 241,
+        "image": "ph_91.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "As I am visually impaired, I cannot see this scene. Could you describe the environment in front of me in detail and tell me how I might move safely in this environment?"
+            },
+            {
+                "from": "gpt",
+                "value": "This picture shows you are standing near a compact sitting area with a patterned sofa placed against a wooden panel wall. A wall-mounted television with visible cables hangs above the sofa, suggesting a casual entertainment setup. The room appears narrow, with basic furnishings and minimal decoration. It gives a practical, everyday living-room feel."
+            }
+        ]
+    },
+    {
+        "id": 242,
+        "image": "ph_92.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "As I am visually impaired, I cannot see this scene. Could you describe the environment in front of me in detail and tell me how I might move safely in this environment?"
+            },
+            {
+                "from": "gpt",
+                "value": "This image captures a bedroom with a decorative wooden bed and a floor mattress placed next to it. The blue accent wall contrasts with lighter walls, though signs of dampness are visible near the lower edges. The bedding is colorful, and folded blankets are stacked along the wall. The space looks shared, simple, and used for rest rather than display."
+            }
+        ]
+    },
+    {
+        "id": 243,
+        "image": "ph_93.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "As I am visually impaired, I cannot see this scene. Could you describe the environment in front of me in detail and tell me how I might move safely in this environment?"
+            },
+            {
+                "from": "gpt",
+                "value": "This image shows you are standing in front or nearer of a corner of a room with built-in open shelves beside a wooden door. The shelves hold a few household items, including water bottles and small containers, while a decorative portrait is placed on the top shelf. The patterned floor tiles and cabinet with a mirror on the left suggest this area is used for storage and daily grooming."
+            }
+        ]
+    },
+    {
+        "id": 267,
+        "image": "ph_117.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "As I am visually impaired, I cannot see this scene. Could you describe the environment in front of me in detail and tell me how I might move safely in this environment?"
+            },
+            {
+                "from": "gpt",
+                "value": "You are currently standing at the entrance of a large office, facing toward a central wooden desk. The floor is smooth, cool tile. Directly ahead of you, about four paces away, is the edge of the large wooden desk. To your immediate right, two steps away, is a yellow upholstered armchair, followed by a longer yellow sofa against the wall. To your left, approximately two steps away, is a tall wooden bookshelf. Further left, there is an open doorway leading to a hallway. To move safely, walk straight forward to reach the desk, or turn 90 degrees to your right and take two steps to find the armchair. To exit, turn toward your left and walk three paces to reach the open door frame"
+            }
+        ]
+    },
+    {
+        "id": 268,
+        "image": "ph_118.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "As I am visually impaired, I cannot see this scene. Could you describe the environment in front of me in detail and tell me how I might move safely in this environment?"
+            },
+            {
+                "from": "gpt",
+                "value": "You are currently standing in a living area, positioned between a glass coffee table and a wooden sofa set. The floor is smooth, light-colored tile. To your immediate left is a dark wooden coffee table with a glass top. Directly ahead of you is a two-seater wooden sofa with patterned cushions. To your right is a longer wooden sofa stretching along the wall. Further ahead, beyond the seating area, is a dining table with six chairs. To move safely, walk straight for three paces to reach the edge of the two-seater sofa, or turn 45 degrees to your left and take five steps to reach the open doorway leading to a bedroom. To reach the dining area, walk forward four steps, passing to the left of the sofa in front of you."
+            }
+        ]
+    },
+    {
+        "id": 269,
+        "image": "ph_119.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "As I am visually impaired, I cannot see this scene. Could you describe the environment in front of me in detail and tell me how I might move safely in this environment?"
+            },
+            {
+                "from": "gpt",
+                "value": "You are standing in a living room with white marble-tiled floors, positioned behind a glass-topped table. Directly ahead of you is an open floor space leading to a central wooden coffee table covered with a patterned gold cloth. To your left, there is a long wooden sofa with brown diamond-patterned cushions and decorative pillows. Further ahead on the far wall, there is a wooden media cabinet with a television mounted above it. To your right, the edge of another seating area covered in a dark floral cloth is visible. To move safely, take three steps forward to reach the central coffee table, or turn 45 degrees to your left and take two steps to reach the armrest of the wooden sofa."
+            }
+        ]
+    },
+    {
+        "id":313,
+        "image": "vialm_sm_163.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain daily necessities. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Starting from the current position, please move forward 4 steps, then turn right 45 degrees. As you advance, note that the pathway is clear. The item you need is located at your front. Nearby, there are some laundry detergents; on the left, they are in plastic bottles, and on the right, in plastic bags - lifting them might feel a bit heavy due to their weight."
+            }
+        ]
+    },
+    {
+        "id":314,
+        "image": "vialm_sm_164.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen fish. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are standing to the left of the shelf, please turn right 90 degrees. You will feel a freezer, which can be accessed by sliding open the door on top. The item you need is at your middle lower. Inside the freezer, you will notice that the food items are quite cold and frozen solid, and you can identify whether the food is fish, shrimp, or others by their shapes."
+            }
+        ]
+    },
+    {
+        "id":315,
+        "image": "vialm_sm_165.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain boxed milk. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are standing in front of the shelf, no need to move forward or backward. The space between is empty. The item you need is at your front. As you reach out, you will touch milk cartons of different sizes; you can choose the size that suits your needs. Some milk cartons are simple rectangular boxes, while others have a roof-like top."
+            }
+        ]
+    },
+    {
+        "id":331,
+        "image": "vialm_sm_181.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain red wine. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Starting from the current position, please move forward 4 steps, then remain standing. There is nothing in between. The item you need is at your front. You can distinguish the items by their shape: wine bottles have a slender neck and are made of glass; when you pick them up, they might feel a bit heavy."
+            }
+        ]
+    },
+    {
+        "id":332,
+        "image": "vialm_sm_182.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain beverages. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Starting from the current position, please move forward 4 steps, then remain standing. There's nothing in between. The item you need is at your front. The entire shelf is stocked with aluminum canned beverages, all of a single type, and you can take a certain number as per your need."
+            }
+        ]
+    },
+    {
+        "id":333,
+        "image": "vialm_sm_183.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain cooking oil. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Starting from the current position, please move forward 6 steps, then turn left 45 degrees. There's nothing in between. The item you need is at your left. On the top shelf are small bottles of cooking oil, while the bottom shelf holds large, family-sized containers of cooking oil. You can choose the appropriate size of cooking oil as per your need. They generally have handles, so pay attention to find the handle first. Additionally, be aware that cooking oil containers can be quite heavy to lift."
+            }
+        ]
+    },
+    {
+        "id":347,
+        "image": "vialm_sm_197.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain hami melon. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are standing to the left of the shelf, please turn right 90 degrees. On the shelf, you might first discover bananas, which are in bunches, each banana being long and curved. The item you need is at your front. They are individual oval spheres with rough, grooved surfaces, hard to the touch and heavy when lifted. To the right of the hemi melons, you might touch mangos, which are smaller, with one end possibly being flatter."
+            }
+        ]
+    },
+    {
+        "id":348,
+        "image": "vialm_sm_198.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Starting from the current position, please move forward 3 steps, then turn left 45 degrees. There is nothing in the immediate vicinity. The item you need is at your left. Hanging on the shelf are bags of snacks, which you can pick from above."
+            }
+        ]
+    },
+    {
+        "id":349,
+        "image": "vialm_sm_199.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain banana. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Starting from the current position, please move forward 3 steps, then turn right 45 degrees. There is nothing in between. The item you need is at your front. Bananas are long, cylindrical fruits clustered together; to the left of the bananas are oranges, which are spherical. The orange's skin has a granular texture and can be gently squeezed."
+            }
+        ]
+    },
+    {
+        "id":366,
+        "image": "vialm_sm_216.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bread. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are standing to the right of the shelf, please turn left 90 degrees. There is nothing in between. The item you need is at your middle upper. There are different types of bread, some are square sliced toast, others are round small breads in bags. They are all in plastic bags, and you can gently touch their surface to feel their shapes and notice that they are fluffy and can be compressed."
+            }
+        ]
+    },
+    {
+        "id":367,
+        "image": "vialm_sm_217.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain basin. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are standing to the right of the shelf, please turn left 90 degrees. There is nothing in between. The item you need is at your middle upper. On the shelf, there are various basins. You can feel their smooth surfaces, which are made of plastic, and their open shapes. They come in different sizes, allowing you to choose one according to your needs. Some might be stacked together, requiring a bit of effort to separate them."
+            }
+        ]
+    },
+    {
+        "id":368,
+        "image": "vialm_sm_218.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain cabbage. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are standing to the right of the shelf, please turn left 90 degrees. If you reach out, you might touch potatoes with traces of soil, somewhat oval-shaped and not very large. Above the potatoes on the shelf, there are larger broccolis with a grainy texture. To the left of the broccoli, there are smooth-surfaced eggplants, varying in size at each end. The item you need is at your top right. Above and to the right of the potatoes are cabbages. If you touch to the right of the potatoes, you will feel the grainy broccoli, and above that, the cabbage, which feels like a bundled sphere with leaf veins. They might feel heavy when picked up."
+            }
+        ]
+    },
+    {
+        "id":385,
+        "image": "vialm_sm_235.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain gun mug. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are standing to the right of the shelf, please turn left 90 degrees The path to the shelf is clear. The item you need is at your Front. Many mugs are placed on the shelf, made of ceramic, feeling very smooth and solid to the touch. Some have lids, others do not. You can feel the handles of the mugs and choose the size that suits your needs."
+            }
+        ]
+    },
+    {
+        "id":386,
+        "image": "vialm_sm_236.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain refrigerated fruits. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Starting from the current position;Please Move forward 3 steps, then Turn right 45 degrees The path to your destination is unobstructed. The item you need is at your Right. In the refrigerated section, fruits are stored in plastic bags or wrapped in plastic film. Some may be oranges, bundled in groups, feeling like small spheres upon gentle touch. There are also individually wrapped apples or dragon fruits, which are much larger than the oranges."
+            }
+        ]
+    },
+    {
+        "id":387,
+        "image": "vialm_sm_237.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain celery. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Starting from the current position, move forward 4 steps, then turn right 90 degrees. You will feel the cold air from the refrigerated cabinet, as you touch, you will encounter various vegetables wrapped in plastic bags. The item you need is positioned in the middle lower section of the cabinet. In the bottom layer of the refrigerated cabinet, you can feel the stalks of celery bundled together. To the left of the celery is broccoli, which you can discern by its tree-like, round shape. Next to the celery are leeks, which feel like skinny stick with soft leaves at the top."
+            }
+        ]
+    },
+    {
+        "id":413,
+        "image": "vialm_ph_163.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Starting from the current position; Please Move forward 2 steps, then Turn left 90 degrees; Please Move forward 5 steps, then Remain standing. There is nothing obstructing the passageway. The target object you want to approach is at your Front. You may first touch the back of the chair. The chair's frame is likely made of wood, feeling hard and smooth to the touch, yet not cold. The backrest might feature an X-shaped frame, topped with a horizontal bar. The seat cushion is soft, possibly covered in fabric, and filled with foam or cotton. When you sit down, you can feel the comfort of the cushion."
+            }
+        ]
+    },
+    {
+        "id":414,
+        "image": "vialm_ph_164.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Starting from the current position; Please Move forward 9 steps, then Remain standing; Please Move forward 5 steps, then Remain standing. As you begin your journey, you might first walk on a solid floor, feeling its hardness underfoot, before stepping onto a carpet. The transition brings a softness beneath your feet, with the fabric of the carpet muffling your footsteps. Along your path, to the right, there lies a wooden coffee table on the carpet. If you use a cane, tapping it will produce a solid sound, echoing the sturdiness of the wood. The target object you want to approach is at your Bottom right. Your destination is a three-seater sofa, possibly with a smooth, leather surface. You may first encounter its armrest. The cushions, filled with cotton or sponge, offer a responsive and warm embrace as you press down or sit. Additionally, there's a rectangular pillow resting on the sofa, contributing to its comfort."
+            }
+        ]
+    },
+    {
+        "id":415,
+        "image": "vialm_ph_165.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: kitchen faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are standing to the left of the object, please turn right 90 degrees; Please Move forward 1 steps, then Remain standing. There is nothing in the passway. The target object you want to approach is at your Front. As you approach the kitchen counter, you may first touch a surface that feels like marble, characterized by its hard, cold, and smooth texture. Moving further in, you might feel the sink, embedded within the countertop. The edge of the sink is fitted with a faucet made of metal, featuring a slender, inverted L-shaped spout. The faucet's surface feels smooth, cold, and possibly slightly damp. There may also be a handle on the faucet, which releases water when turned."
+            }
+        ]
+    },
+    {
+        "id":431,
+        "image": "vialm_ph_181.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: dining chair. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Starting from the current position; Please Move forward 2 steps, then Turn left 90 degrees; Please Move forward 1 step, then Remain standing. As you move forward, on your right side, you might pass by a chair and a coffee table. The target object you want to approach is at your Front. You will touch the dining chair. The surface of the chair is velvety. The backrest and the armrests are connected, creating a cocoon-like, shell-shaped embrace. The chair is filled with cotton or foam, and when pressed or sat upon, you can feel the chair's resilience and its warmth and comfort."
+            }
+        ]
+    },
+    {
+        "id":432,
+        "image": "vialm_ph_182.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: kitchen faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Starting from the current position; Please Move forward 1 steps, then Turn left 90 degrees; Please Move forward 4 steps, then Remain standing. You are in an area enclosed by cabinets and a bar counter. To your left is a wooden bar table, smooth and firm to the touch, yet not cold. After turning left 90 degrees, you might first come into contact with the refrigerator on your right. The refrigerator, a large rectangular object, likely has a metallic surface that is very smooth. Next to the refrigerator is the kitchen counter, possibly made of marble, offering a hard, cold, and smooth tactile sensation. The target object you want to approach is at your Front. In front of you, on the kitchen counter, there's a sink embedded into the surface. Installed on the counter is a faucet made of metal, smooth, hard, and possibly a bit cold to the touch. You can distinctly feel a slender metal pipe, and the faucet is equipped with a handle which, when rotated, releases water."
+            }
+        ]
+    },
+    {
+        "id":433,
+        "image": "vialm_ph_183.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: double sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Starting from the current position; Please Move forward 1 steps, then Turn left 45 degrees. As you walk, you may find yourself on a carpet, feeling its soft texture underfoot. The sound of your steps on the carpet is notably subdued. The target object you want to approach is at your Left. You are approaching a two-seater sofa without armrests on either side. At the height of your knees and calves, you can feel the surface of the sofa, which could be either leather or fabric, filled with a resilient material like cotton or foam. On the sofa, there are two square pillows and a cylindrical bolster beneath them."
+            }
+        ]
+    },
+    {
+        "id":447,
+        "image": "vialm_ph_197.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are standing to the right of the object, please turn left 90 degrees; Please Move forward 3 steps, then Remain standing. After you turn left 90 degrees, to your right side is a low-height coffee table. The edges of the tabletop are made of wood, while the center might be marble. It feels smooth and hard to touch, and the marble is distinctly cooler than the wooden edges. The target object you want to approach is at your Middle lower. This is a double-seater sofa. The frame of the sofa is made of wood. The seat cushion is a thin layer of textile, with a surface of fabric filled with cotton or sponge. You might feel its softness and resilience. The backrest of the sofa is made of the same material as the seat cushion. It connects to the armrests on both sides with a smooth, curved design."
+            }
+        ]
+    },
+    {
+        "id":448,
+        "image": "vialm_ph_198.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: toilet. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Starting from the current position; Please Move forward 2 steps, then Turn left 90 degrees. The passageway is clear. The target object you want to approach is at your Middle lower. This is a toilet installed on the floor, with a water tank mounted on the wall above. The toilet is covered with a lid, likely made of ceramic, and its surface feels exceptionally smooth to the touch."
+            }
+        ]
+    },
+    {
+        "id":449,
+        "image": "vialm_ph_199.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk chair. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Starting from the current position; Please Move forward 3 steps, then Remain standing. There is nothing obstructing your path. The target object you want to approach is at your Front. This is an armless chair. Its backrest and seat are covered in fabric or velvet, with a filling of sponge or cotton inside, making it very soft and comfortable to the touch."
+            }
+        ]
+    },
+    {
+        "id":466,
+        "image": "vialm_ph_216.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: dining chair. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Starting from the current position; Please Move forward 2 steps, then Turn right 90 degrees; Please Move forward 1 steps, then Remain standing. After turning right 90 degrees, you may first encounter a dining table. The tabletop feels like marble, hard, cold, and smooth to the touch. On the table, there are ceramic plates and metal cutlery; be cautious not to injure your hands. The target object you want to approach is at your Front. The object in front of you is a comfortable dining chair. The armrests, backrest, and seat cushion seem to be made of leather, feeling smooth and delicate. The armrests, backrest, and cushion appear to be padded with cotton or sponge. When you press down or sit, you can feel a bounce back, soft and comfortable. Additionally, the backrest seems to have only an upper part, with the lower part being open."
+            }
+        ]
+    },
+    {
+        "id":467,
+        "image": "vialm_ph_217.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: armchair. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Starting from the current position; Please Move forward 7 steps, then Remain standing. As you walk on the carpet, you'll notice the softness of its fabric beneath your feet, and the sound of your steps will be barely audible. On your right, you might pass by a coffee table, which has a rectangular-shaped top. The target object you want to approach is at your Bottom right. The object you're approaching is a very comfortable single-seat armchair. The surface of the sofa is a fabric, which you may find slightly rough to the touch. It's filled with a material like cotton or sponge, making it very soft and comfortable. On the sofa, there's a rectangular cushion. A piece of cloth might cover the sofa's seat cushion, with woolen tassels hanging from the front edge."
+            }
+        ]
+    },
+    {
+        "id":468,
+        "image": "vialm_ph_218.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: three-seat sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Starting from the current position; Please Move forward 8 steps, then Turn right 90 degrees; Please Move forward 2 steps, then Remain standing. You may initially walk on the hard floor before transitioning to a carpet. As you walk on the floor, you'll feel its firmness, whereas the carpet will offer a softness underfoot, muffling your footsteps. After turning right 90 degrees, you might pass a sofa stool to your left. This backless stool, resembling a cylindrical barrel, rests on the floor. The target object you want to approach is at your Left. The sofa's backrest and armrests are connected, enclosing the cushion. The surface of the sofa might be leather, offering a smooth and delicate touch. It is filled with sponge or cotton, giving a comfortable, springy feel when seated. In the center of the sofa lies a blanket."
+            }
+        ]
+    },
+    {
+        "id":485,
+        "image": "vialm_ph_235.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk chair. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Starting from the current position; Please Move forward 8 steps, then Remain standing. As you walk, you might first step on the floor, feeling its firmness underfoot, then onto a carpet. On the carpet, the fabric's softness is noticeable, and the sound of your steps becomes muted. The target object you want to approach is at your Front. The object is a chair with wheels. Its backrest and seat are connected, creating a curved, enveloping shape, filled with sponge or cotton, offering a sense of the filling's resilience. The chair's arms are sleek, likely metallic, feeling solid, smooth, and slightly cool to the touch. In front of the chair, there is a relatively wide wooden desk."
+            }
+        ]
+    },
+    {
+        "id":486,
+        "image": "vialm_ph_236.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk chair. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "You are standing to the right of the object, please turn left 90 degrees; Please Move forward 3 steps, then Remain standing. With The passageway is clear., The target object you want to approach is at your Left. You may first touch a table, which has a rather thick wooden top, smooth and hard to the touch. A lamp is placed on the far side of the table. The lamp's stand is a thin metal pole, topped with a lampshade and bulb. To the extreme left of the table is an ergonomic chair. It has wheels at the base for movement. The chair's backrest is relatively low, and the armrests are possibly made of plastic."
+            }
+        ]
+    },
+    {
+        "id":487,
+        "image": "vialm_ph_237.jpg",
+        "conversation":[
+            {
+                "from":"human",
+                "value": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: floor cushion. Could you please guide me to it using tactile cues based on the scene shown in the image?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Starting from the current position; Please Move forward 2 steps, then Turn left 45 degrees. As you walk on the plush carpet, you can feel its softness underfoot. The sound of your steps is muffled, creating a sense of quiet and comfort. The target object you want to approach is at your Bottom left. Your foot might brush against a large, round cushion placed on the plush carpet. The surface of the cushion is made of velvety fabric, offering a delicate touch. Filled with cotton, it's incredibly soft and comfortable."
+            }
+        ]
+    }
+]
