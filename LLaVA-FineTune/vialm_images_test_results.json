@@ -1,0 +1,152 @@
+[
+    {
+        "image": "vialm_sm_163.jpg",
+        "query": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain daily necessities. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "Starting from the current position, please move forward 10 steps, then turn right 45 degrees; then move forward 4 steps, turn left 45 degrees, and move forward 1 step. You will reach a shelf filled with daily necessities. On this shelf, you can find bottles of milk and juice, as well as tea and beverages. Some items may also be packaged in plastic bags."
+    },
+    {
+        "image": "vialm_sm_164.jpg",
+        "query": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen fish. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "Starting from the current position, please move forward two steps, then turn right 90 degrees. After a few steps, you might encounter a metal shelf with two tiers. The lower shelf contains fish products. You can identify them by feeling their shape and the frozen packaging. The upper shelf might be empty or contain fish products in plastic bags."
+    },
+    {
+        "image": "vialm_sm_165.jpg",
+        "query": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain boxed milk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "Starting from the current position, please move forward 2 steps, then turn right 45 degrees; then move forward 3 steps, and you will reach the shelf containing boxed milk. You can identify this item by its shape. The box is made of cardboard, and there are two layers of cardboard. The top layer is slightly thicker than the bottom layer. The box is filled with milk packed in plastic bags. The box is rectangular in shape, and the edges are slightly rounded. The milk inside feels slightly cold to the touch."
+    },
+    {
+        "image": "vialm_sm_181.jpg",
+        "query": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain red wine. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "You are standing in front of the shelf. To your left, there are bottled beverages, possibly beer, at waist height. To your right, there are wine bottles arranged in rows, starting from the middle of the shelf, at waist and chest height. The wine bottles are placed closely together, with their necks facing each other. The red wine is on the lower shelf, on the right side, at chest height. You can feel the shape of the bottle, its neck, and the label. The wine is enclosed by the shelf, and you can touch its base if you reach out a bit."
+    },
+    {
+        "image": "vialm_sm_182.jpg",
+        "query": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain beverages. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "Starting from the current position, Move forward 4 steps, then turn left 90 degrees. You might encounter shelves on the left side containing snacks. The item you need is at your front. On the shelves, you can feel the cans and bottles containing beverages. You can also touch the refrigerator at the far end of the aisle, which has a cool surface. The items are stored in cans and bottles, some with lids."
+    },
+    {
+        "image": "vialm_sm_183.jpg",
+        "query": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain cooking oil. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "You are standing in front of the shelf, no need to move forward or backward. The item you need is at your left. This section contains bottled oil, which are placed in stacks. They are rectangular or slightly cylindrical in shape, made of glass. The oil is inside, and the top part of the bottle has a rounded cap. The bottles vary in size and height, and some may have labels on their necks."
+    },
+    {
+        "image": "vialm_sm_197.jpg",
+        "query": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain hami melon. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "Starting from the current position, please move forward three steps, then turn left 45 degrees. You will feel the round shape of the hami melon, which is placed on a shelf. The hami melons are arranged in stacks, and you can choose according to your needs."
+    },
+    {
+        "image": "vialm_sm_198.jpg",
+        "query": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "Starting from the current position, please move forward 1 step, then turn left 45 degrees. You might first touch a shelf with snacks, possibly containing chips, crackers, or small snack packs. If you gently lift the item, you might feel a slightly hard, rectangular shape or a small bag with a thin handle. Be careful not to pick up a larger bag of snacks, as they might be heavier and cause you to lose balance."
+    },
+    {
+        "image": "vialm_sm_199.jpg",
+        "query": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain banana. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "You are standing in front of the shelf, no need to move forward or backward. The item you need is at your middle level. You will feel a large, rectangular box filled with bananas. The bananas are arranged in several layers, and their ends are slightly curved, making them easily distinguishable. The surface of the box is made of wood, and the bananas feel smooth and slightly cool to the touch."
+    },
+    {
+        "image": "vialm_sm_216.jpg",
+        "query": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bread. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "You are standing in front of the shelf. Please move forward three steps, then turn left 45 degrees. You will feel a shelf with a cardboard box. On the left side, there are two bags. If you gently lift one, you will find it is a plastic bag containing bread."
+    },
+    {
+        "image": "vialm_sm_217.jpg",
+        "query": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain basin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "Starting from the current position, move forward 1 step, then turn left 90 degrees. You will touch the shelf, and you can feel the shape of the basins on the middle shelf. The basins are stacked one inside the other, and the middle one is relatively larger than the others."
+    },
+    {
+        "image": "vialm_sm_218.jpg",
+        "query": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain cabbage. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "You are standing in front of the shelf. To your left, there is broccoli in wooden crates, and to your right, there are cabbages. You can feel the shape and firmness of the wooden crates, as well as the flat, rectangular shape of the cabbages. The cabbages are denser and have a slightly harder texture compared to the softer broccoli."
+    },
+    {
+        "image": "vialm_sm_235.jpg",
+        "query": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain gun mug. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "Starting from the current position, please move forward 1 step, then turn left 45 degrees. You might first encounter a shelf with tea cups and mugs, which have a smooth, round shape. You might also encounter shelves filled with various containers, including cups, bowls, and bottles, all arranged in an orderly manner. After that, you will reach a section with plastic containers, which are rectangular and lightweight. The item you need is at your front, in the middle of the aisle. The gun mug is made of metal, with a handle at the top, and is placed in a plastic case."
+    },
+    {
+        "image": "vialm_sm_236.jpg",
+        "query": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain refrigerated fruits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "You are standing in front of the refrigerator, please move forward 5 steps; then, turn right 90 degrees, and move forward 3 steps. You will reach the shelves. The fruits are placed in baskets, and you can feel their shape and weight. The fruits are organized in rows, and you can feel their density. The fruits are well-packaged in plastic bags, and the refrigerator's transparent doors allow you to see the fruits inside."
+    },
+    {
+        "image": "vialm_sm_237.jpg",
+        "query": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain celery. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "Starting from the current position, please move forward three steps, then turn left 90 degrees. Then, move forward four steps and remain standing. The item you need is at your left. You can touch the surface of the refrigerator with your hand. The item you need is packaged in plastic bags. You can feel the firmness and shape of the celery."
+    },
+    {
+        "image": "vialm_ph_163.jpg",
+        "query": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me. The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "Starting from the current position, please move forward 3 steps, then turn left 45 degrees; then move forward 2 steps, turn left 90 degrees; then move forward 1 step, turn left 90 degrees. As you walk, you may encounter a dining table. The target object you want to approach is at your left. The chair is made of wood and has a rectangular backrest. Its surface might feel slightly smooth to the touch, with a gentle curve in the backrest. The chair seat is covered with fabric, and the corners of the chair may have metal brackets for support. The backrest and seat are connected by a central spine."
+    },
+    {
+        "image": "vialm_ph_164.jpg",
+        "query": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me. The target object I want to approach is: sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "Starting from the current position; Please Move forward 1 steps, then Remain standing; Please Move forward 2 steps, then Turn left 45 degrees; Please Move forward 3 steps, then Turn right 90 degrees; Please Move forward 3 steps, then Remain standing. The path you choose is clear and unobstructed. The target object you want to approach is at your Middle lower. This is a low-backed sofa. The backrest is made of fabric, which feels smooth and comfortable to the touch. The armrests are also low, forming a slightly curved surface. There are no sharp corners or protruding edges, making it safe to approach and sit down."
+    },
+    {
+        "image": "vialm_ph_165.jpg",
+        "query": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: kitchen faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "Starting from the current position, please move forward 5 steps, then turn left 45 degrees. The pathway is clear. The target object you want to approach is at your Middle lower. The kitchen faucet is a metal sink faucet. It is a single-handle faucet with a spout on the right side. The spout is likely to be a tap with a circular hole, and it is likely to be made of metal. The faucet is installed on the kitchen sink, which is a rectangular basin."
+    },
+    {
+        "image": "vialm_ph_181.jpg",
+        "query": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: dining chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "Starting from the current position; Please Move forward 1 steps, then Turn left 90 degrees; Please Move forward 1 steps, then Turn left 90 degrees; Please Move forward 2 steps, then Turn right 90 degrees; Please Move forward 1 steps, then Turn left 90 degrees; Please Move forward 1 steps, then Turn right 90 degrees; Please Move forward 2 steps, then Turn right 90 degrees; Please Move forward 1 steps, then Turn left 90 degrees; Please Move forward 1 steps, then Turn right 90 degrees; Please Move forward 1 steps, then Turn left 90 degrees; Please Move forward 2 steps, then Turn right 90 degrees; Please Move forward 1 steps, then Turn right 90 degrees; Please Move forward 2 steps, then Turn left 90 degrees. The target object you want to approach is at your Middle lower. It is a dining chair, with a circular base and a backrest. The backrest is curved and can be used for support. The chair's seat is filled with sponge or cloth, providing a comfortable sitting experience."
+    },
+    {
+        "image": "vialm_ph_182.jpg",
+        "query": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: kitchen faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "You are standing in front of the object, please turn left 90 degrees; then turn forward 9 steps, and remain standing. The target object you want to approach is at your Middle lower. The faucet is made of metal, its surface feels smooth and cold to the touch. It has a knob and a handle, which can be used to control the water flow. The faucet is located at a convenient height for washing dishes."
+    },
+    {
+        "image": "vialm_ph_183.jpg",
+        "query": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: double sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "Starting from the current position, Please Move forward 5 steps, then Turn left 45 degrees. The pathway is clear. The target object you want to approach is at your Middle lower. This is a sofa, its surface is soft and comfortable. The backrest and armrests are cushioned with fabric, and the sofa has no legs. The sofa is covered with a floral-patterned fabric, giving it a slightly rough texture."
+    },
+    {
+        "image": "vialm_ph_197.jpg",
+        "query": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "Starting from the current position, please move forward 1 step, then turn left 45 degrees. You will be walking on a carpeted floor, feeling its softness and warmth underfoot. The target object you want to approach is at your middle lower. This is a large sofa, with a wooden frame and cushions. Its surface is made of fabric, likely velvet or microfiber. On the sofa, you can find some decorative items such as tassels and small pillows, which you can touch to feel their textures."
+    },
+    {
+        "image": "vialm_ph_198.jpg",
+        "query": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: toilet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "Starting from the current position; Please Move forward 1 steps, then Turn left 90 degrees; Please Move forward 2 steps, then Remain standing. The pathway is clear and flat. The target object you want to approach is at your Middle lower. The toilet is a two-piece design, with a tank on the left and a bowl on the right. The tank is round and made of porcelain, while the bowl is elongated and made of the same material. The toilet lid is closed. You can feel the cold surface of the toilet bowl and the hard edges of the tank."
+    },
+    {
+        "image": "vialm_ph_199.jpg",
+        "query": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "Starting from the current position, Please move forward 3 steps, then turn left 45 degrees. As you walk, you'll be touching a carpet on the floor. The target object you want to approach is at your Middle lower. The chair is made of wood, and it has a comfortable cushion. The backrest and armrests are also covered with fabric. The seat is filled with a soft, spongy material that provides a comfortable feeling."
+    },
+    {
+        "image": "vialm_ph_216.jpg",
+        "query": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: dining chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "Starting from the current position, Please Move forward 2 steps, then Turn left 45 degrees; Remain standing. You might first touch a dining table. On the table, you might encounter a spoon, a bowl, and possibly a bottle. The target object you want to approach is at your Middle lower. It is a dining chair. The backrest is made of wood, and the seat is a single cushion. The chair is currently empty."
+    },
+    {
+        "image": "vialm_ph_217.jpg",
+        "query": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: armchair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "Starting from the current position; Please Move forward 2 steps, then Turn left 45 degrees; Please Move forward 3 steps, then Remain standing. As you walk, you will pass through a carpeted floor, feeling its softness underfoot. After turning left, you might first encounter a wooden table with a hard surface, which might feel sharp under your hand. Next, you will find a couch on your right, with its armrests shaped like a sofa, providing a gentle curve for your hand to rest on. The target object you want to approach is at your Middle lower. You might first touch a flat surface, then notice a low coffee table. The armrests of the armchair are curved, and its cushions are filled with soft materials. They might feel warm and comfortable to touch."
+    },
+    {
+        "image": "vialm_ph_218.jpg",
+        "query": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: three-seat sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "You are standing in the hallway. Please move forward 10 steps, then turn left 45 degrees. The target object you want to approach is at your right. The sofa is a three-seater, featuring a curved design. The backrest is slightly high and has a cushion. The armrests are low and rectangular, with a cushion on top. There are no legs visible on the sofa, as it is placed against a wall."
+    },
+    {
+        "image": "vialm_ph_235.jpg",
+        "query": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "Starting from the current position, please move forward 1 step, then turn left 45 degrees; then move forward 2 steps, and remain standing. The pathway is clear. The target object you want to approach is at your Middle lower. You will feel the chair's armrests, which are slightly curved and made of metal, and the backrest is likely made of a hard, sturdy material. The chair is placed on a carpeted floor, providing a comfortable and stable sitting surface."
+    },
+    {
+        "image": "vialm_ph_236.jpg",
+        "query": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "Starting from the current position; Please Move forward 5 steps, then Turn left 90 degrees; Please Move forward 1 step, then Remain standing. The target object you want to approach is at your Middle lower. This is a desk chair, likely made of metal or plastic. The backrest is likely upholstered with fabric or leather, and the seat is filled with sponge or foam. The chair can be adjusted in height by pulling a lever or button, and it has a gas spring that allows it to return to its original position after being pushed down."
+    },
+    {
+        "image": "vialm_ph_237.jpg",
+        "query": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: floor cushion. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+        "response": "You are standing in front of the object, no need to move forward or backward. The floor is made of wooden boards, and there is no obstacle in the passage. The target object you want to approach is at your middle lower. These are three round white cushions, each with a sponge filling. They are placed on a thick, soft, and woven carpet. The carpet is soft to the touch, and the cushions are comfortable."
+    }
+]

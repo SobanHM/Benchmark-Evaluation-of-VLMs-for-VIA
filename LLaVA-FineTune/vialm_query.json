@@ -1,0 +1,152 @@
+[
+    {
+        "id":313,
+        "image": "vialm_sm_163.jpg",
+        "query":"I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain daily necessities. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":314,
+        "image": "vialm_sm_164.jpg",
+        "query":"I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen fish. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":315,
+        "image": "vialm_sm_165.jpg",
+        "query":"I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain boxed milk. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":331,
+        "image": "vialm_sm_181.jpg",
+        "query":"I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain red wine. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":332,
+        "image": "vialm_sm_182.jpg",
+        "query": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain beverages. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":333,
+        "image": "vialm_sm_183.jpg",
+        "query":"I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain cooking oil. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":347,
+        "image": "vialm_sm_197.jpg",
+        "query": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain hami melon. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":348,
+        "image": "vialm_sm_198.jpg",
+        "query": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":349,
+        "image": "vialm_sm_199.jpg",
+        "query": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain banana. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":366,
+        "image": "vialm_sm_216.jpg",
+        "query":"I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bread. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":367,
+        "image": "vialm_sm_217.jpg",
+        "query": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain basin. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":368,
+        "image": "vialm_sm_218.jpg",
+        "query":"I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain cabbage. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":385,
+        "image": "vialm_sm_235.jpg",
+        "query":"I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain gun mug. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":386,
+        "image": "vialm_sm_236.jpg",
+        "query":"I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain refrigerated fruits. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":387,
+        "image": "vialm_sm_237.jpg",
+        "query":"I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain celery. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":413,
+        "image": "vialm_ph_163.jpg",
+        "query":"I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me. The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":414,
+        "image": "vialm_ph_164.jpg",
+        "query":"I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me. The target object I want to approach is: sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":415,
+        "image": "vialm_ph_165.jpg",
+        "query":"I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: kitchen faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":431,
+        "image": "vialm_ph_181.jpg",
+        "query":"I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: dining chair. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":432,
+        "image": "vialm_ph_182.jpg",
+        "query":"I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: kitchen faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":433,
+        "image": "vialm_ph_183.jpg",
+        "query":"I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: double sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":447,
+        "image": "vialm_ph_197.jpg",
+        "query":"I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":448,
+        "image": "vialm_ph_198.jpg",
+        "query":"I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: toilet. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":449,
+        "image": "vialm_ph_199.jpg",
+        "query":"I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk chair. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":466,
+        "image": "vialm_ph_216.jpg",
+        "query":"I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: dining chair. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":467,
+        "image": "vialm_ph_217.jpg",
+        "query":"I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: armchair. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":468,
+        "image": "vialm_ph_218.jpg",
+        "query": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: three-seat sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":485,
+        "image": "vialm_ph_235.jpg",
+        "query": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk chair. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":486,
+        "image": "vialm_ph_236.jpg",
+        "query":"I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk chair. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    },
+    {
+        "id":487,
+        "image": "vialm_ph_237.jpg",
+        "query": "I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: floor cushion. Could you please guide me to it using tactile cues based on the scene shown in the image?"
+    }
+]
